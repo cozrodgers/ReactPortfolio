@@ -22,9 +22,10 @@ class Landing extends Component {
                 
                 <div className = "social-links">
                 
-                <a href="http://google.com" target="_blank"></a>
-                <a href=""></a>
-                <a href=""></a>
+                <a href="http://google.com" target="_blank"> <i rel="noopener noreferrer"    aria-hidden="true" className="fa fa-linkedin "/></a>
+                
+       
+               
 
                 </div>
                 </div>

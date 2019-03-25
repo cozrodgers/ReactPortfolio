@@ -11,6 +11,7 @@ class App extends Component {
       <Layout>
           <Header title="Title" scroll>
               <Navigation>
+              <Link to="/">Home</Link>
                   <Link to="/projects">Projects</Link>
                   <Link to="/resume">Resume</Link>
                   <Link to="aboutme">About</Link>

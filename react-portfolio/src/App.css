@@ -45,3 +45,15 @@ padding-top:  5em;
   padding: 1em;
 
 }
+
+.social-link {
+
+  display: flex;
+  width: 50%;
+  text-align: center;
+}
+
+.social-links i {
+  color: antiquewhite;
+  font-size: 45px;
+}
