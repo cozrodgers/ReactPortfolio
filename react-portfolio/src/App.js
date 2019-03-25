@@ -9,18 +9,16 @@ class App extends Component {
     return (
       <div className="demo-big-content">
       <Layout>
-          <Header className="header-color" title="Corey Rodgers" scroll>
+          <Header title="Title" scroll>
               <Navigation>
-                  <Link to="/">Home</Link>
                   <Link to="/projects">Projects</Link>
                   <Link to="/resume">Resume</Link>
                   <Link to="aboutme">About</Link>
                   <Link to="/contact">Contact</Link>
               </Navigation>
           </Header>
-          <Drawer title="Corey Rodgers">
+          <Drawer title="Title">
               <Navigation>
-              <Link to="/">Home</Link>
                   <Link to="/projects">Projects</Link>
                   <Link to="/resume">Resume</Link>
                   <Link to="aboutme">About</Link>
@@ -29,7 +27,7 @@ class App extends Component {
           </Drawer>
           <Content>
               <div className="page-content" />
-<Main/>
+              <Main/>
           </Content>
       </Layout>
   </div>
@@ -38,3 +36,6 @@ class App extends Component {
 }
 
 export default App;
+
+
+                  
