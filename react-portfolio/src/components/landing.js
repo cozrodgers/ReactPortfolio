@@ -7,15 +7,15 @@ class Landing extends Component {
 
             <div style={{width: '100%', margin: 'auto'}}>
             <Grid className="landing-grid">
-                <Cell col={12}>
-                <img 
-                src="http://bestshelvingunits.com/wp-content/uploads/2016/02/avatarnew.png" 
-                alt=""
-                className="avatar-img"/>
 
+                <Cell col={12}>
+
+               
                 <div className="banner-text">
 
-                <h1>full stack web developer</h1>
+                <h1>Corey Rodgers</h1>
+            
+                <h2>Full Stack Web Developer</h2>
                 <hr/>
                 
                 <p>HTML/CSS | Bootstrap | JavaScript | React | NodeJS | Express | MongoDB</p>
