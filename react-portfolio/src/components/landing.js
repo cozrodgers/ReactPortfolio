@@ -21,8 +21,8 @@ class Landing extends Component {
                 <p>HTML/CSS | Bootstrap | JavaScript | React | NodeJS | Express | MongoDB</p>
                 
                 <div className = "social-links">
-                
-                <a href="http://google.com" target="_blank"> <i rel="noopener noreferrer"    aria-hidden="true" className="fa fa-linkedin "/></a>
+           
+              <a href="http://google.com"> <i aria-hidden="true" className="fa fa-linkedin "/></a>
                 
        
                

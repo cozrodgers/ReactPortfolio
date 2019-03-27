@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
-import { Cell, Grid} from 'react-mdl';
+import {Cell, Grid} from 'react-mdl';
+import Project from './items/card';
 
 class Projects extends Component {
     render() {
@@ -11,26 +12,34 @@ class Projects extends Component {
 <Grid className="landing-grid">
 
 <Cell col={12}>
-<h1>Projects Page</h1>
+<h3>Projects Page</h3>
 </Cell>
 
 
-<Cell col={4}>
-<h1>Item</h1>
+<Cell col={6}>
+
+<Project text="C#" title="CSR Helper" btntxt="See More"/>
 </Cell>
 
-<Cell col={4}>
-<h1>Item 2</h1>
+<Cell col={6}>
+
+<Project text="QandAMe" title="QandAMe"/>
 </Cell>
 
-<Cell col={4}>
-<h1>Item 3</h1>
+<Cell col={6}>
+
+<Project text="Social Network built using laravel" title="SocialNet"/>
 </Cell>
 
+<Cell col={6}>
+
+<Project text="Social Network built using laravel" title="SocialNet"/>
+</Cell>
 
 
 </Grid>
 
+<p>&bsp;</p>
                
             </div>
         )
