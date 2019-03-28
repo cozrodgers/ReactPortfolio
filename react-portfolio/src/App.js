@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Layout, Header, HeaderRow, Drawer, Navigation, Content, Footer, FooterSection, FooterLinkList } from 'react-mdl';
+import { Layout, Header, HeaderRow, Drawer, Navigation, Content } from 'react-mdl';
 import './App.css';
 import Main from './components/main';
 import { Link } from 'react-router-dom';

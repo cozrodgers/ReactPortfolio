@@ -155,10 +155,12 @@ class Resume extends Component {
 <p><strong>Various Part Time roles 2012-2017 (During studies)</strong></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+<hr></hr>
 <p><strong>INTERESTS AND ACTIVITIES</strong></p>
+<hr></hr>
 <p><strong>&nbsp;</strong></p>
 <p><strong>Web Development (MERN stack)</strong></p>
-<p>Even during my free time I am always looking to improve my development skills whether it be completing courses on Udemy and Lynda.com, i&rsquo;m always keen to see what new things I can create using frameworks and libraries. Recently I have been looking into OpenGL libraries (PIXIJS) for games development and now Laravel to create a lightweight social network.</p>
+<p>Even during my free time I am always looking to improve my development skills whether it be completing courses on Udemy and Lynda.com, i&rsquo;m always keen to see what new things I can create using frameworks and libraries. Recently I have been looking into WebGL libraries (PIXIJS) for games development and now Laravel to create a lightweight social network.</p>
 <p>&nbsp;</p>
 <p><strong><u>Current Projects</u></strong></p>
 <p><em>PHP Laravel based Social Network, React Based Portfolio, PixiJS based canvas game, QandA PWA using ReactJS and Express (NodeJS). </em></p>

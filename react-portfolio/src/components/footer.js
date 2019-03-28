@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import { Layout, Header, HeaderRow, Drawer, Navigation, Content, Footer, FooterSection, FooterLinkList } from 'react-mdl';
+import { Footer, FooterSection, FooterLinkList } from 'react-mdl';
 
 
 class CustomFooter extends Component {
@@ -7,10 +7,10 @@ class CustomFooter extends Component {
         return(
             <div>
             <Footer size="mini">
-    <FooterSection type="left" logo="Title">
+    <FooterSection type="left" logo="Corey Rodgers">
         <FooterLinkList>
-            <a href="#">Help</a>
-            <a href="#">Privacy & Terms</a>
+          
+          
         </FooterLinkList>
     </FooterSection>
     </Footer>
